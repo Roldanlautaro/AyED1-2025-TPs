@@ -1,0 +1,7 @@
+'''
+Ej 02
+Desarrollar una función que reciba tres números enteros positivos y verifique si
+corresponden a una fecha gregoriana válida (día, mes, año). Devolver True o False
+según la fecha sea correcta o no. Realizar también un programa para verificar el
+comportamiento de la función.
+'''
